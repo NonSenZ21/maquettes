@@ -1,0 +1,24 @@
+@charset "UTF-8";
+.noir {
+    background-color: black;
+}
+.no-pad-no-marg{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 0px;
+}
+.no-padl{
+    padding-left: 1px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+.droite {
+    text-align: right;
+    align-items: right;
+}
+.vcenter {
+    margin-top: auto;
+    margin-bottom: auto;
+}
